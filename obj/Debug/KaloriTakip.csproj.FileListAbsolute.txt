@@ -1,0 +1,8 @@
+C:\Users\şeyma\source\repos\KaloriTakip\obj\Debug\KaloriTakip.csproj.AssemblyReference.cache
+C:\Users\şeyma\source\repos\KaloriTakip\obj\Debug\KaloriTakip.csproj.CoreCompileInputs.cache
+C:\Users\şeyma\source\repos\KaloriTakip\bin\Debug\KaloriTakip.exe.config
+C:\Users\şeyma\source\repos\KaloriTakip\bin\Debug\KaloriTakip.exe
+C:\Users\şeyma\source\repos\KaloriTakip\bin\Debug\KaloriTakip.pdb
+C:\Users\şeyma\source\repos\KaloriTakip\obj\Debug\KaloriTakip.exe
+C:\Users\şeyma\source\repos\KaloriTakip\obj\Debug\KaloriTakip.pdb
+C:\Users\şeyma\source\repos\KaloriTakip\obj\Debug\KaloriTakip.exe.config
